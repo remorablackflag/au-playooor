@@ -11,6 +11,9 @@ Solution of the week4 task of [Alchemy University](https://university.alchemy.co
 - both deploy scripts immediately call `play()` on the deployed Playooor contract
 (which calls `attempt()` on Alchemy's contract)
 
+Deployed on Görli:
+https://goerli.etherscan.io/address/0x9B857f10deB3217F53d98AEc7A7DAEE667350351
+
 ---
 
 # **Ready to be a winner?**
